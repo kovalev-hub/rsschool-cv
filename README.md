@@ -1,2 +1,3 @@
 # rsschool-cv
 https://kovalev-hub.github.io/rsschool-cv/cv
+https://kovalev-hub.github.io/rsschool-cv/
